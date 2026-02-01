@@ -1,5 +1,4 @@
 # Discord Embed Preview Bot
-# Discord Embed Preview Bot
 
 This bot previews Discord message links by fetching the referenced message and sending a preview embed.
 
